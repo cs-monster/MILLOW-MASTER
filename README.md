@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real Estate NFT DApp
 
 ## Technology Stack & Tools
@@ -29,3 +30,7 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+=======
+# MILLOW-MASTER
+A Hybrid DApp project for CN6035 coursework — Blockchain-based real estate platform with frontend, backend, and smart contract integration.
+>>>>>>> ff1ed54c3ae7d6aed3e2241258bb3a57383ea1b3
